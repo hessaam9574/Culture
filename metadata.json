@@ -1,0 +1,8 @@
+{
+  "name": "سامانه پایش و تحلیل فرهنگ انتظامی",
+  "description": "پلتفرم تخصصی تحلیل لایه‌های فرهنگ سازمانی فراجا مبتنی بر مدل ادگار شاین و هوش مصنوعی مولد.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
